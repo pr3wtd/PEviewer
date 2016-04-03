@@ -4,6 +4,6 @@ size of Optional Header in PE file, address of Entry Point or number of subsyste
 It also provides data of each section in the executable. 
 
 When analyzing PE files, e.g. to determine whether it is a malicious file, imports play an important role.
-Therefore, the program gives information about DLL's being imported.
+Therefore, the program gives information about DLLs being imported.
 
 In the nearest future, I am planning to add a list of functions imported by each DLL. 
